@@ -27,31 +27,23 @@ JourneyHosting is a technology company specialized in providing high-quality hos
 ### Frontend
 - React, Next.js, Vue.js, Angular
 - TypeScript, JavaScript
+- Blazor, MAUI
 - HTML5, CSS3, Tailwind CSS
 - Responsive & Mobile-First Design
 
 ### Backend
 - Node.js, Express, NestJS
-- Python, Django, FastAPI
-- PHP, Laravel
-- RESTful APIs, GraphQL
+- dotNET
+- RESTful APIs
 
 ### Databases
 - PostgreSQL, MySQL
-- MongoDB, Redis
 - Database Optimization & Design
-
-### DevOps & Infrastructure
-- Docker, Kubernetes
-- AWS, Google Cloud, Azure
-- CI/CD Pipelines
-- Linux Server Administration
-- Monitoring & Performance Optimization
 
 ## 🤝 Why Choose JourneyHosting?
 
 - ✅ **Reliability**: 99.9% uptime guarantee for all hosting services
-- ✅ **Expertise**: Experienced team of fullstack developers and infrastructure engineers
+- ✅ **Expertise**: Experienced team of fullstack developers and infrastructure
 - ✅ **Scalability**: Solutions that grow with your business
 - ✅ **Security**: Industry-standard security practices and protocols
 - ✅ **Support**: Dedicated technical support team available 24/7
@@ -61,18 +53,14 @@ JourneyHosting is a technology company specialized in providing high-quality hos
 
 Ready to start your journey with us? We'd love to hear from you!
 
-- 🌐 **Website**: [Coming Soon]
-- 📧 **Email**: contact@journeyhosting.com
-- 💬 **Support**: support@journeyhosting.com
-
-## 📄 License
-
-This organization profile is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- 🌐 **Website**: journey-hosting.pt
+- 📧 **Email**: 
+- 💬 **Support**: 
 
 ---
 
 <div align="center">
 
-**JourneyHosting** - *Powering Your Digital Journey* 🌍
+**JourneyHosting** - *Your Journey Starts Here* 🌍
 
 </div>
